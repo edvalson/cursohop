@@ -2,3 +2,31 @@
 
 Olá Mundo!
 Olá Mundo!
+
+
+Comandos: 
+
+1 - git clone https://github.com/edvalson/cursohop.git .
+
+2 - git status
+
+3 - Cria o arquivo e depois o comando git status
+
+4 - git add .
+
+5 - depois git status
+
+6 - git commit -m "Subindo o meu primeiro arquivo"
+
+7 - Configurando o usuario e-mail e username
+       -> git config --global user.email "edvalsonjr@gmail.com"
+       -> git config --global user.name  "edvalson"
+
+8 - git commit -m "Subindo o meu primeiro arquivo"
+
+9 - git push
+
+10 - faz o login no github
+
+11 - depois git push
+  
