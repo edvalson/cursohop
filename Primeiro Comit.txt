@@ -29,4 +29,16 @@ Comandos:
 10 - faz o login no github
 
 11 - depois git push
+
+----------------------------------------------------------
+
+ALTERAÇÃO
+
+1 - git status
+
+2 - git add .
+
+3 - git commit -m "Subindo o meu primeiro arquivo 3"
+
+4 - git push
   
